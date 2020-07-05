@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+
+}
+h3{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+ul{
+    border-top: 1rem solid #400082;;
+    padding-bottom: 80px;
+}
+nav{
+    color: black;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+.middle{
+    text-align: center;
+    align-content: center;
+}
+.card-title{
+    color: #400082;
+}
+.service{
+    text-decoration: underline;
+}
+small{
+    font-size: 16px !important;
+}
